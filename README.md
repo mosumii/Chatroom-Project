@@ -18,8 +18,15 @@
 ## About the Project
 <!-- TODO: Introduce the name of the project, general summary of its approach + cost. Define as many requirements as possible -->
 
+<!--The following links are to help newer teammates-->
 <p><b><a href = "https://github.com/mosumii/Chatroom-Project"> Project Link </a></b></p>
-Resources for this project: This project  will utilize HTML, CSS, Javascript, and Python.
+<p> <B>Tools Download: </b>
+  <a href = "https://code.visualstudio.com/download"> VSCode, </a>
+  <a href = "https://git-scm.com/downloads"> Git, </a>
+  <a href = "https://nodejs.org/"> Node.JS</a>
+<p>
+
+Resources for this project: This project  will utilize HTML, CSS, Node.JS, Javascript, and Python(?).
 Major frameworks/libraries used will include...
 
 <!-- 2. GETTING STARTED-->
@@ -60,4 +67,11 @@ ronandrei.eligio@gmail.com
 <!-- 6. ACKNOWLEDGEMENTS-->
 ## Acknowledgements
 <!-- Sources that were used by this project-->
+<p>This project will take advantage of the following resources: </p>
+<ul>
+  <li>
+    <a href="https://github.com/socketio/chat-example"> Socket.io Example </a>
+    <a href="https://socket.io/get-started/chat/"> | Guide 
+  </li>
+</ul>
 
