@@ -63,6 +63,8 @@ Ron Eligio | <i> Project Manager, Full Stack Developer </i> -
 <a href ="https://www.linkedin.com/in/ronandrei-eligio/"> LinkedIn </a> - 
 ronandrei.eligio@gmail.com 
 
+<!--Scrum Master, Development Team, Testers, Product Designer, System Integrators, Architect Owner -->
+
 
 <!-- 6. ACKNOWLEDGEMENTS-->
 ## Acknowledgements
