@@ -75,5 +75,8 @@ ronandrei.eligio@gmail.com
     <a href="https://github.com/socketio/chat-example"> Socket.io Example </a>
     <a href="https://socket.io/get-started/chat/"> | Guide 
   </li>
+  <li> 
+    <a href="https://stackoverflow.com/questions/29734208/how-can-i-connect-my-python-script-with-my-html-file">Connecting Python to HTML </a>
+  </li>
 </ul>
 
